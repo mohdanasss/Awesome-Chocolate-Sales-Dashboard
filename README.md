@@ -4,14 +4,14 @@
 
 **Project Overview**: The Awesome Chocolate Company has undertaken a comprehensive data analysis project to gain insights into its sales performance, customer base, and shipment efficiency. The Power BI dashboard provides a detailed overview of key metrics and trends, enabling stakeholders to make informed decisions.
 
-##Key Performance Indicators (KPIs):
+## Key Performance Indicators (KPIs):
 
 - **Total Sales**: The company achieved total sales of $34 million, reflecting strong market demand and effective sales strategies.
 - **Total Items Sold**: A total of 2 million items were sold, showcasing the popularity of the company’s chocolate products.
 - **Total Shipments**: The company successfully managed 6,000 shipments, ensuring timely delivery to customers.
 - **Total Customers**: With 14 million customers, the company has a broad and loyal customer base.
 
-**##Sales Analysis:**
+**## Sales Analysis:**
 
 - **Sales by Item Category**: The bar chart shows that ‘Bars’ are the top-selling category, followed by ‘Bites’ and ‘Others.’ This indicates a preference for traditional chocolate bars among customers.
 - **Shipments by Country**: The bar chart reveals that Australia has the highest number of shipments, followed by Canada, India, the UK, and the USA. This indicates strong international demand and efficient logistics operations.
