@@ -2,11 +2,27 @@
 
 
 
-**Project Overview**: The Awesome Chocolate Company has undertaken a comprehensive data analysis project to gain insights into its sales performance, customer base, and shipment efficiency. The Power BI dashboard provides a detailed overview of key metrics and trends, enabling stakeholders to make informed decisions.
+## **Project Overview** 
+ The Awesome Chocolate Company has undertaken a comprehensive data analysis project to gain insights into its sales performance, customer base, and shipment efficiency. The Power BI dashboard provides a detailed overview of key metrics and trends, enabling stakeholders to make informed decisions.
 
 
 ## **Tools/Skills Used**
 
+- Alerts Icons
+- Bookmarks
+- Conditional Formatting
+- Dax Measures
+- Dynamic Trend
+- Dashboard Design
+- Field Params
+- Grouping
+- Histogram Chart
+- KPI Cards
+- Reference Labels
+- Tooltips
+- Time Intelligence
+- Table Design
+- Zoom Slider
 
 ## Key Performance Indicators (KPIs)
 
