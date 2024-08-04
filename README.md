@@ -1,6 +1,6 @@
 # Awesome-Chocolate-Sales-Dashboard
 
-
+![](Awesome Dashboard Pic.png)
 
 ## **Project Overview** 
  The Awesome Chocolate Company has undertaken a comprehensive data analysis project to gain insights into its sales performance, customer base, and shipment efficiency. The Power BI dashboard provides a detailed overview of key metrics and trends, enabling stakeholders to make informed decisions.
