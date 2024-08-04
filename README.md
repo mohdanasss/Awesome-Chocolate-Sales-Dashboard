@@ -16,14 +16,11 @@ Total Customers: With 14 million customers, the company has a broad and loyal cu
 Sales Analysis:
 
 Sales by Item Category: The bar chart shows that ‘Bars’ are the top-selling category, followed by ‘Bites’ and ‘Others.’ This indicates a preference for traditional chocolate bars among customers.
-
 Shipments by Country: The bar chart reveals that Australia has the highest number of shipments, followed by Canada, India, the UK, and the USA. This indicates strong international demand and efficient logistics operations.
 
-Sales By Month :
-
-Sales by Month: The line graph illustrates sales trends from March 2021 to June 2022, highlighting peak sales periods and seasonal variations.
 Shipment Analysis:
 
+Sales by Month: The line graph illustrates sales trends from March 2021 to June 2022, highlighting peak sales periods and seasonal variations.
 Cost by Month: The line chart shows fluctuations in costs from May 2021 to January 2024, helping to identify periods of high expenditure.
 Boxes by Month: This chart tracks the number of boxes sold over time, indicating trends in sales volume.
 Sales by Month: The updated sales chart provides a more extended view of sales trends, showing peaks and troughs from May 2021 to January 2024.
